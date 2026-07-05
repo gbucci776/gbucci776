@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/xqyet/xqyet/main/media/braves.gif" width="150">
+  <img src="https://raw.githubusercontent.com/xqyet/xqyet/main/media/braves.gif" width="250">
 </h1>
 
 <h3 align="center"></h3>
@@ -35,7 +35,7 @@
   ```javascript
 class readme {
     constructor() {
-        this.profile = "xqyet";
+        this.profile = "Gio";
         this.tools = ["IntelliJ IDEA", "Neovim", "Visual Studio Code", "Visual Studio 2022 IDE", "GoLand", "RustRover"];
     }
 
