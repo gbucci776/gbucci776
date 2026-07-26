@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/xqyet/xqyet/main/media/braves.gif" width="250">
+  <img src="https://raw.githubusercontent.com/gbucci776/gbucci776/main/media/braves.gif" width="250">
 </h1>
 
 <h3 align="center"></h3>
@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xqyet">
-    <img src="https://github-stats-alpha.vercel.app/api?username=xqyet&cc=00000000&tc=FE8018&ic=8EC07C&bc=00000000">
+  <a href="https://github.com/gbucci776">
+    <img src="https://github-stats-alpha.vercel.app/api?username=gbucci776&cc=00000000&tc=FE8018&ic=8EC07C&bc=00000000">
   </a>
 </p>
 
@@ -27,9 +27,9 @@
 <summary><b>🔥 My Stats</b></summary>
 <p align="center">
 <br>
-<a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xqyet&theme=darcula"></a>
+<a href="https://github.com/gbucci776?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbucci776&theme=darcula"></a>
     <br>
-    <a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xqyet&theme=darcula"></a><a href="https://github.com/xqyet?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xqyet&theme=darcula"></a>&nbsp;
+    <a href="https://github.com/gbucci776?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gbucci776&theme=darcula"></a><a href="https://github.com/gbucci776?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gbucci776&theme=darcula"></a>&nbsp;
 </p>
 
   ```javascript
@@ -40,7 +40,7 @@ class readme {
     }
 
     sayHi() {
-    console.log(">> user@xqyet:~$ echo 'Welcome to my page.'");
+    console.log(">> user@gbucci776:~$ echo 'Welcome to my page.'");
     }
 }
 
@@ -56,12 +56,12 @@ me.sayHi();
                                                                                                                                                                                                                                                    
 <badges>
 <a href="_removed_" target="_blank" >
-  <img src="https://img.shields.io/badge/[removed]-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="xqyet" alt="xqyet" /></a> 
+  <img src="https://img.shields.io/badge/[removed]-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="gbucci776" alt="gbucci776" /></a> 
 <a href="_removed_" target="_blank">
-  <img src="https://img.shields.io/badge/[removed].dev-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="xqyet.dev Badge" /> </a>
+  <img src="https://img.shields.io/badge/[removed].dev-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="gbucci776.dev Badge" /> </a>
    
 <p align="left">
-  <a href="https://github.com/search?q=is%3Apr+author%3Axqyet&type=pullrequests&query=is%3Apr+author%3Axqyet" target="_blank">
+  <a href="https://github.com/search?q=is%3Apr+author%3Agbucci776&type=pullrequests&query=is%3Apr+author%3Agbucci776" target="_blank">
     <img src="https://img.shields.io/badge/My%20Pull%20Requests-View%20on%20GitHub-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
