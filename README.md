@@ -57,8 +57,8 @@ me.sayHi();
 <badges>
 <a href="_removed_" target="_blank" >
   <img src="https://img.shields.io/badge/[removed]-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="gbucci776" alt="gbucci776" /></a> 
-<a href="_removed_" target="_blank">
-  <img src="https://img.shields.io/badge/[removed].dev-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="gbucci776.dev Badge" /> </a>
+<a href="https://xque.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/xque.dev-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="gbucci776.dev Badge" /> </a>
    
 <p align="left">
   <a href="https://github.com/search?q=is%3Apr+author%3Agbucci776&type=pullrequests&query=is%3Apr+author%3Agbucci776" target="_blank">
